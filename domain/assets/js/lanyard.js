@@ -135,7 +135,7 @@ async function setSpotifySongName() {
     var par = document.getElementById('spotify-song');
 
     if (response.data.listening_to_spotify == false) {
-        par.innerHTML = 'no spotify sub';
+        par.innerHTML = 'no spotify playing';
         return;
     }
 
@@ -165,7 +165,7 @@ async function setSpotifyArtist() {
     var par = document.getElementById('spotify-artist');
 
     if (response.data.listening_to_spotify == false) {
-        par.innerHTML = 'i use apple music';
+        par.innerHTML = 'im either offline or bored';
         return;
     }
 
