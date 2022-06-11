@@ -26,7 +26,7 @@ body {
     background: url(/domain/strxanger.cc/assets/media/bg2.gif);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100;
+    background-size: 100%;
 }
 
 .card {
