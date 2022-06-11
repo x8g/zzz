@@ -23,10 +23,10 @@ body {
     width: 100%;
     min-height: 100vh;
     gap: 10px;
-    background: url(..domain/strxanger.cc/assets/media/bg2.gif);
+    background: url(/domain/strxanger.cc/assets/media/bg2.gif);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100;
 }
 
 .card {
