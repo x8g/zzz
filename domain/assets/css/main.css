@@ -6,6 +6,12 @@
     box-sizing: border-box;
 }
 
+
+html {
+  cursor: url('other/cursor.png'), default;
+}
+
+
 body {
     margin: 0;
     padding: 0;
@@ -166,8 +172,4 @@ li {
 }
 .connection-icon {
     height: 28px;
-}
-
-html {
-  cursor: url('other/cursor.png'), default;
 }
