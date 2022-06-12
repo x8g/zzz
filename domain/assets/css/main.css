@@ -167,3 +167,7 @@ li {
 .connection-icon {
     height: 28px;
 }
+
+html {
+  cursor: url('other/cursor.png'), default;
+}
