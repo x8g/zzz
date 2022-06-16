@@ -8,7 +8,7 @@
 
 
 html {
-  cursor: url('..other/cursor.png'), default;
+  cursor: url('/other/cursor.png'), default;
 }
 
 
